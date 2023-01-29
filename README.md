@@ -1,2 +1,2 @@
 My first readme
-Collaboaration:be update
+Collaboaration:be up to date
